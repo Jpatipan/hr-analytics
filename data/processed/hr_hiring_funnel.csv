@@ -1,0 +1,609 @@
+applicant_id,source,stage,stage_date
+A2000,Company Website,Applied,2024-03-18
+A2000,LinkedIn,Phone Screen,2024-03-08
+A2000,Job Fair,Interview,2024-02-21
+A2001,Company Website,Applied,2024-01-27
+A2001,LinkedIn,Phone Screen,2024-01-28
+A2001,Referral,Interview,2024-01-08
+A2001,Job Fair,Offer,2024-02-05
+A2002,Company Website,Applied,2024-01-18
+A2002,Company Website,Phone Screen,2024-02-18
+A2003,LinkedIn,Applied,2024-01-04
+A2003,Company Website,Phone Screen,2024-03-29
+A2003,Company Website,Interview,2024-03-15
+A2003,Referral,Offer,2024-03-14
+A2004,Referral,Applied,2024-01-13
+A2004,Referral,Phone Screen,2024-03-11
+A2004,Referral,Interview,2024-02-25
+A2005,LinkedIn,Applied,2024-02-11
+A2006,LinkedIn,Applied,2024-02-11
+A2007,Job Fair,Applied,2024-02-05
+A2007,Job Fair,Phone Screen,2024-03-08
+A2007,Company Website,Interview,2024-01-07
+A2008,Company Website,Applied,2024-01-01
+A2008,Job Fair,Phone Screen,2024-02-14
+A2009,Company Website,Applied,2024-02-16
+A2009,Referral,Phone Screen,2024-01-13
+A2009,Referral,Interview,2024-01-22
+A2009,Company Website,Offer,2024-01-21
+A2009,Company Website,Hired,2024-01-09
+A2010,Company Website,Applied,2024-01-09
+A2010,Referral,Phone Screen,2024-01-10
+A2010,Job Fair,Interview,2024-02-11
+A2011,Job Fair,Applied,2024-01-24
+A2011,Job Fair,Phone Screen,2024-02-18
+A2011,Company Website,Interview,2024-02-06
+A2012,Job Fair,Applied,2024-02-19
+A2012,Job Fair,Phone Screen,2024-01-19
+A2012,Job Fair,Interview,2024-02-29
+A2012,Referral,Offer,2024-03-14
+A2013,LinkedIn,Applied,2024-01-18
+A2013,Referral,Phone Screen,2024-02-05
+A2013,Company Website,Interview,2024-02-24
+A2013,Company Website,Offer,2024-03-09
+A2013,Referral,Hired,2024-02-18
+A2014,Referral,Applied,2024-02-02
+A2014,Referral,Phone Screen,2024-01-21
+A2014,LinkedIn,Interview,2024-01-22
+A2015,Job Fair,Applied,2024-02-06
+A2015,Referral,Phone Screen,2024-02-04
+A2016,Job Fair,Applied,2024-03-11
+A2016,Job Fair,Phone Screen,2024-01-11
+A2016,Company Website,Interview,2024-03-13
+A2016,Company Website,Offer,2024-03-17
+A2016,LinkedIn,Hired,2024-02-26
+A2017,Company Website,Applied,2024-01-25
+A2017,Company Website,Phone Screen,2024-03-04
+A2017,Referral,Interview,2024-01-07
+A2018,LinkedIn,Applied,2024-01-18
+A2019,Referral,Applied,2024-02-11
+A2020,Company Website,Applied,2024-02-08
+A2021,LinkedIn,Applied,2024-03-15
+A2021,Referral,Phone Screen,2024-01-24
+A2021,Job Fair,Interview,2024-02-15
+A2021,Referral,Offer,2024-03-08
+A2021,Company Website,Hired,2024-02-11
+A2022,Job Fair,Applied,2024-02-08
+A2022,LinkedIn,Phone Screen,2024-02-05
+A2022,Job Fair,Interview,2024-02-05
+A2022,Referral,Offer,2024-03-13
+A2023,Job Fair,Applied,2024-03-10
+A2023,LinkedIn,Phone Screen,2024-03-08
+A2024,LinkedIn,Applied,2024-02-18
+A2024,Job Fair,Phone Screen,2024-01-02
+A2024,Job Fair,Interview,2024-01-05
+A2024,Job Fair,Offer,2024-01-27
+A2025,Job Fair,Applied,2024-01-21
+A2025,Job Fair,Phone Screen,2024-03-12
+A2025,Company Website,Interview,2024-03-07
+A2025,Company Website,Offer,2024-02-13
+A2026,LinkedIn,Applied,2024-02-27
+A2026,Referral,Phone Screen,2024-03-26
+A2026,Company Website,Interview,2024-01-02
+A2026,Referral,Offer,2024-02-13
+A2026,Company Website,Hired,2024-03-21
+A2027,Referral,Applied,2024-03-27
+A2027,Company Website,Phone Screen,2024-01-08
+A2027,Company Website,Interview,2024-02-13
+A2027,Company Website,Offer,2024-02-05
+A2028,LinkedIn,Applied,2024-03-17
+A2028,LinkedIn,Phone Screen,2024-01-31
+A2028,Referral,Interview,2024-02-24
+A2029,Job Fair,Applied,2024-03-02
+A2029,Company Website,Phone Screen,2024-02-24
+A2030,Job Fair,Applied,2024-01-12
+A2030,LinkedIn,Phone Screen,2024-01-16
+A2031,Job Fair,Applied,2024-01-08
+A2031,Job Fair,Phone Screen,2024-01-03
+A2031,Job Fair,Interview,2024-01-30
+A2031,LinkedIn,Offer,2024-01-23
+A2032,Job Fair,Applied,2024-01-05
+A2032,Job Fair,Phone Screen,2024-03-05
+A2032,LinkedIn,Interview,2024-01-30
+A2032,LinkedIn,Offer,2024-03-24
+A2033,Company Website,Applied,2024-01-22
+A2033,Company Website,Phone Screen,2024-03-12
+A2033,Referral,Interview,2024-02-01
+A2033,LinkedIn,Offer,2024-01-16
+A2034,Job Fair,Applied,2024-02-07
+A2034,Job Fair,Phone Screen,2024-01-14
+A2034,Job Fair,Interview,2024-01-23
+A2034,Company Website,Offer,2024-03-06
+A2034,LinkedIn,Hired,2024-03-25
+A2035,Company Website,Applied,2024-03-13
+A2035,LinkedIn,Phone Screen,2024-03-15
+A2035,Referral,Interview,2024-02-21
+A2035,Company Website,Offer,2024-01-23
+A2036,Company Website,Applied,2024-03-08
+A2036,Company Website,Phone Screen,2024-02-24
+A2036,Company Website,Interview,2024-02-04
+A2036,Company Website,Offer,2024-02-12
+A2037,Referral,Applied,2024-03-26
+A2038,Job Fair,Applied,2024-01-12
+A2039,Referral,Applied,2024-02-18
+A2040,Company Website,Applied,2024-02-07
+A2040,Company Website,Phone Screen,2024-02-14
+A2041,Referral,Applied,2024-01-30
+A2041,Job Fair,Phone Screen,2024-01-30
+A2041,Company Website,Interview,2024-01-06
+A2041,Referral,Offer,2024-03-20
+A2042,Referral,Applied,2024-02-21
+A2042,Company Website,Phone Screen,2024-03-13
+A2042,Referral,Interview,2024-01-21
+A2042,Referral,Offer,2024-03-06
+A2043,Referral,Applied,2024-01-02
+A2043,Referral,Phone Screen,2024-03-22
+A2043,Company Website,Interview,2024-01-20
+A2044,Company Website,Applied,2024-01-10
+A2045,LinkedIn,Applied,2024-03-06
+A2046,LinkedIn,Applied,2024-02-23
+A2046,LinkedIn,Phone Screen,2024-02-05
+A2047,Referral,Applied,2024-01-14
+A2047,LinkedIn,Phone Screen,2024-03-20
+A2047,Company Website,Interview,2024-02-21
+A2047,Referral,Offer,2024-02-10
+A2047,Company Website,Hired,2024-01-25
+A2048,LinkedIn,Applied,2024-01-08
+A2048,LinkedIn,Phone Screen,2024-03-08
+A2048,LinkedIn,Interview,2024-03-19
+A2048,Job Fair,Offer,2024-02-14
+A2049,Job Fair,Applied,2024-01-12
+A2049,Job Fair,Phone Screen,2024-01-13
+A2049,Referral,Interview,2024-03-18
+A2049,Job Fair,Offer,2024-01-18
+A2049,LinkedIn,Hired,2024-02-29
+A2050,Referral,Applied,2024-01-06
+A2050,Job Fair,Phone Screen,2024-02-12
+A2050,Company Website,Interview,2024-01-02
+A2050,Job Fair,Offer,2024-01-23
+A2050,Referral,Hired,2024-01-31
+A2051,Referral,Applied,2024-01-05
+A2051,Referral,Phone Screen,2024-02-03
+A2052,Company Website,Applied,2024-03-29
+A2052,Company Website,Phone Screen,2024-01-11
+A2052,Company Website,Interview,2024-01-31
+A2052,Job Fair,Offer,2024-03-19
+A2052,LinkedIn,Hired,2024-03-27
+A2053,Referral,Applied,2024-01-09
+A2053,Referral,Phone Screen,2024-01-21
+A2053,LinkedIn,Interview,2024-01-28
+A2054,Company Website,Applied,2024-01-07
+A2054,Job Fair,Phone Screen,2024-01-16
+A2055,Job Fair,Applied,2024-01-04
+A2055,Job Fair,Phone Screen,2024-02-09
+A2055,LinkedIn,Interview,2024-02-21
+A2056,LinkedIn,Applied,2024-02-21
+A2057,Job Fair,Applied,2024-02-07
+A2057,Referral,Phone Screen,2024-02-19
+A2057,Referral,Interview,2024-03-03
+A2057,Company Website,Offer,2024-01-07
+A2058,Referral,Applied,2024-03-26
+A2058,Company Website,Phone Screen,2024-03-11
+A2059,LinkedIn,Applied,2024-03-26
+A2060,LinkedIn,Applied,2024-02-24
+A2060,Company Website,Phone Screen,2024-03-02
+A2060,Referral,Interview,2024-01-21
+A2061,Company Website,Applied,2024-03-19
+A2061,LinkedIn,Phone Screen,2024-01-10
+A2061,Referral,Interview,2024-02-27
+A2062,Job Fair,Applied,2024-02-08
+A2062,LinkedIn,Phone Screen,2024-03-05
+A2062,LinkedIn,Interview,2024-03-25
+A2062,Company Website,Offer,2024-03-25
+A2063,LinkedIn,Applied,2024-03-22
+A2063,LinkedIn,Phone Screen,2024-02-14
+A2063,Job Fair,Interview,2024-02-05
+A2063,LinkedIn,Offer,2024-02-29
+A2063,Referral,Hired,2024-03-03
+A2064,LinkedIn,Applied,2024-02-21
+A2064,Job Fair,Phone Screen,2024-02-24
+A2064,LinkedIn,Interview,2024-01-26
+A2064,Company Website,Offer,2024-03-08
+A2064,Company Website,Hired,2024-02-21
+A2065,Job Fair,Applied,2024-03-22
+A2065,Job Fair,Phone Screen,2024-02-21
+A2066,LinkedIn,Applied,2024-02-07
+A2067,Company Website,Applied,2024-01-21
+A2067,Company Website,Phone Screen,2024-01-13
+A2067,LinkedIn,Interview,2024-03-04
+A2067,LinkedIn,Offer,2024-01-09
+A2068,LinkedIn,Applied,2024-01-01
+A2069,Company Website,Applied,2024-02-29
+A2070,Job Fair,Applied,2024-01-29
+A2070,LinkedIn,Phone Screen,2024-01-10
+A2070,Company Website,Interview,2024-02-27
+A2070,Job Fair,Offer,2024-02-29
+A2070,Job Fair,Hired,2024-01-21
+A2071,Job Fair,Applied,2024-03-15
+A2071,Referral,Phone Screen,2024-02-03
+A2071,Job Fair,Interview,2024-02-28
+A2071,Company Website,Offer,2024-03-12
+A2072,LinkedIn,Applied,2024-03-19
+A2072,LinkedIn,Phone Screen,2024-02-29
+A2072,Referral,Interview,2024-03-28
+A2072,LinkedIn,Offer,2024-03-23
+A2072,LinkedIn,Hired,2024-02-01
+A2073,Job Fair,Applied,2024-03-05
+A2073,Referral,Phone Screen,2024-01-08
+A2073,LinkedIn,Interview,2024-03-12
+A2074,LinkedIn,Applied,2024-03-27
+A2074,Referral,Phone Screen,2024-01-01
+A2075,LinkedIn,Applied,2024-02-20
+A2075,Job Fair,Phone Screen,2024-01-24
+A2075,LinkedIn,Interview,2024-01-05
+A2075,Job Fair,Offer,2024-01-21
+A2076,Job Fair,Applied,2024-02-27
+A2076,Referral,Phone Screen,2024-01-11
+A2076,Job Fair,Interview,2024-01-15
+A2076,Referral,Offer,2024-01-07
+A2077,Referral,Applied,2024-01-28
+A2077,Referral,Phone Screen,2024-02-27
+A2077,LinkedIn,Interview,2024-01-05
+A2077,Company Website,Offer,2024-01-08
+A2078,Job Fair,Applied,2024-01-10
+A2079,Company Website,Applied,2024-03-21
+A2079,Referral,Phone Screen,2024-01-08
+A2079,Job Fair,Interview,2024-01-25
+A2079,LinkedIn,Offer,2024-03-06
+A2080,Referral,Applied,2024-02-19
+A2080,Referral,Phone Screen,2024-02-18
+A2080,Job Fair,Interview,2024-03-08
+A2080,Company Website,Offer,2024-02-10
+A2081,LinkedIn,Applied,2024-03-02
+A2081,Referral,Phone Screen,2024-01-10
+A2081,LinkedIn,Interview,2024-02-05
+A2081,Job Fair,Offer,2024-01-02
+A2082,Company Website,Applied,2024-01-13
+A2083,LinkedIn,Applied,2024-02-01
+A2083,Referral,Phone Screen,2024-01-16
+A2084,Job Fair,Applied,2024-02-01
+A2084,Job Fair,Phone Screen,2024-01-11
+A2084,Company Website,Interview,2024-01-15
+A2084,LinkedIn,Offer,2024-02-09
+A2084,Company Website,Hired,2024-02-24
+A2085,LinkedIn,Applied,2024-01-25
+A2085,Job Fair,Phone Screen,2024-02-28
+A2086,Company Website,Applied,2024-03-29
+A2086,Company Website,Phone Screen,2024-01-22
+A2087,Job Fair,Applied,2024-01-30
+A2087,Job Fair,Phone Screen,2024-03-25
+A2087,Job Fair,Interview,2024-02-01
+A2087,Referral,Offer,2024-02-15
+A2087,LinkedIn,Hired,2024-01-21
+A2088,Referral,Applied,2024-02-01
+A2089,Company Website,Applied,2024-02-08
+A2089,LinkedIn,Phone Screen,2024-01-12
+A2089,LinkedIn,Interview,2024-02-16
+A2089,Company Website,Offer,2024-01-21
+A2089,LinkedIn,Hired,2024-01-21
+A2090,Company Website,Applied,2024-01-08
+A2091,Company Website,Applied,2024-01-07
+A2092,Referral,Applied,2024-03-15
+A2092,Job Fair,Phone Screen,2024-03-26
+A2092,Company Website,Interview,2024-03-29
+A2092,Company Website,Offer,2024-01-29
+A2092,LinkedIn,Hired,2024-03-22
+A2093,Company Website,Applied,2024-01-29
+A2093,LinkedIn,Phone Screen,2024-03-19
+A2093,Job Fair,Interview,2024-01-27
+A2094,Company Website,Applied,2024-03-19
+A2094,Referral,Phone Screen,2024-01-23
+A2094,Job Fair,Interview,2024-02-13
+A2095,LinkedIn,Applied,2024-01-22
+A2095,Referral,Phone Screen,2024-02-06
+A2095,LinkedIn,Interview,2024-02-25
+A2095,Referral,Offer,2024-03-03
+A2095,Company Website,Hired,2024-01-19
+A2096,Referral,Applied,2024-01-29
+A2096,Company Website,Phone Screen,2024-02-08
+A2096,Job Fair,Interview,2024-01-25
+A2096,Job Fair,Offer,2024-01-08
+A2096,Company Website,Hired,2024-02-27
+A2097,Job Fair,Applied,2024-03-12
+A2097,LinkedIn,Phone Screen,2024-01-05
+A2097,Referral,Interview,2024-03-05
+A2097,Job Fair,Offer,2024-03-04
+A2097,Company Website,Hired,2024-03-29
+A2098,Company Website,Applied,2024-01-21
+A2098,Job Fair,Phone Screen,2024-02-15
+A2098,Referral,Interview,2024-01-27
+A2098,Company Website,Offer,2024-02-10
+A2099,Job Fair,Applied,2024-01-13
+A2100,LinkedIn,Applied,2024-02-05
+A2101,Company Website,Applied,2024-03-30
+A2101,Company Website,Phone Screen,2024-02-23
+A2102,Job Fair,Applied,2024-03-21
+A2102,Company Website,Phone Screen,2024-01-14
+A2102,LinkedIn,Interview,2024-02-03
+A2102,LinkedIn,Offer,2024-01-20
+A2102,Referral,Hired,2024-01-16
+A2103,Referral,Applied,2024-03-10
+A2103,Job Fair,Phone Screen,2024-03-23
+A2103,LinkedIn,Interview,2024-02-27
+A2103,Job Fair,Offer,2024-01-04
+A2103,Job Fair,Hired,2024-01-10
+A2104,Job Fair,Applied,2024-01-26
+A2104,LinkedIn,Phone Screen,2024-03-25
+A2104,Company Website,Interview,2024-01-21
+A2104,Company Website,Offer,2024-02-07
+A2104,Company Website,Hired,2024-01-04
+A2105,Job Fair,Applied,2024-02-26
+A2105,LinkedIn,Phone Screen,2024-01-20
+A2106,LinkedIn,Applied,2024-03-11
+A2106,Job Fair,Phone Screen,2024-01-14
+A2107,Referral,Applied,2024-03-28
+A2107,LinkedIn,Phone Screen,2024-03-20
+A2107,Company Website,Interview,2024-02-24
+A2108,Job Fair,Applied,2024-01-04
+A2109,Job Fair,Applied,2024-01-24
+A2109,Company Website,Phone Screen,2024-01-30
+A2110,Company Website,Applied,2024-01-19
+A2110,Referral,Phone Screen,2024-02-29
+A2111,Job Fair,Applied,2024-01-19
+A2112,LinkedIn,Applied,2024-03-03
+A2112,Company Website,Phone Screen,2024-03-23
+A2112,Company Website,Interview,2024-01-24
+A2113,LinkedIn,Applied,2024-03-16
+A2114,Company Website,Applied,2024-02-27
+A2115,Company Website,Applied,2024-01-31
+A2116,Job Fair,Applied,2024-03-04
+A2116,Referral,Phone Screen,2024-02-17
+A2116,LinkedIn,Interview,2024-02-24
+A2117,LinkedIn,Applied,2024-02-24
+A2117,LinkedIn,Phone Screen,2024-01-18
+A2117,Referral,Interview,2024-02-16
+A2117,Referral,Offer,2024-02-26
+A2117,Job Fair,Hired,2024-02-14
+A2118,LinkedIn,Applied,2024-01-17
+A2118,Company Website,Phone Screen,2024-01-04
+A2119,Job Fair,Applied,2024-02-16
+A2119,Referral,Phone Screen,2024-01-15
+A2120,Company Website,Applied,2024-02-16
+A2120,Company Website,Phone Screen,2024-03-15
+A2120,Referral,Interview,2024-01-09
+A2120,Company Website,Offer,2024-01-16
+A2120,LinkedIn,Hired,2024-03-01
+A2121,Company Website,Applied,2024-02-19
+A2121,Referral,Phone Screen,2024-03-17
+A2121,Referral,Interview,2024-03-10
+A2121,LinkedIn,Offer,2024-02-20
+A2121,LinkedIn,Hired,2024-01-19
+A2122,Company Website,Applied,2024-02-04
+A2122,Company Website,Phone Screen,2024-01-26
+A2122,Referral,Interview,2024-03-09
+A2122,LinkedIn,Offer,2024-03-04
+A2122,LinkedIn,Hired,2024-03-24
+A2123,LinkedIn,Applied,2024-01-21
+A2123,Company Website,Phone Screen,2024-03-04
+A2124,LinkedIn,Applied,2024-03-10
+A2124,Company Website,Phone Screen,2024-01-04
+A2125,Company Website,Applied,2024-02-08
+A2125,Company Website,Phone Screen,2024-02-04
+A2125,LinkedIn,Interview,2024-01-24
+A2126,LinkedIn,Applied,2024-03-10
+A2126,LinkedIn,Phone Screen,2024-02-23
+A2126,Company Website,Interview,2024-02-29
+A2126,Job Fair,Offer,2024-02-29
+A2127,LinkedIn,Applied,2024-01-31
+A2128,Job Fair,Applied,2024-01-24
+A2128,LinkedIn,Phone Screen,2024-02-05
+A2128,LinkedIn,Interview,2024-01-30
+A2128,Job Fair,Offer,2024-01-30
+A2129,Company Website,Applied,2024-01-07
+A2129,Referral,Phone Screen,2024-02-24
+A2129,Job Fair,Interview,2024-01-14
+A2129,Job Fair,Offer,2024-01-10
+A2129,Job Fair,Hired,2024-01-16
+A2130,Company Website,Applied,2024-03-29
+A2130,LinkedIn,Phone Screen,2024-03-10
+A2131,Job Fair,Applied,2024-03-13
+A2131,LinkedIn,Phone Screen,2024-02-25
+A2131,Referral,Interview,2024-03-24
+A2131,Company Website,Offer,2024-02-26
+A2131,LinkedIn,Hired,2024-03-08
+A2132,Company Website,Applied,2024-02-02
+A2132,Referral,Phone Screen,2024-01-07
+A2132,Company Website,Interview,2024-01-15
+A2132,Company Website,Offer,2024-02-01
+A2133,Job Fair,Applied,2024-03-15
+A2133,Job Fair,Phone Screen,2024-03-28
+A2133,Referral,Interview,2024-02-17
+A2133,Referral,Offer,2024-01-21
+A2133,Company Website,Hired,2024-01-26
+A2134,Job Fair,Applied,2024-01-14
+A2134,LinkedIn,Phone Screen,2024-02-06
+A2134,Company Website,Interview,2024-01-21
+A2135,Company Website,Applied,2024-03-09
+A2135,Referral,Phone Screen,2024-03-27
+A2135,Company Website,Interview,2024-02-06
+A2135,Job Fair,Offer,2024-02-18
+A2136,Referral,Applied,2024-03-29
+A2136,LinkedIn,Phone Screen,2024-01-12
+A2136,LinkedIn,Interview,2024-03-01
+A2136,LinkedIn,Offer,2024-02-02
+A2136,Company Website,Hired,2024-03-08
+A2137,Referral,Applied,2024-03-11
+A2137,Company Website,Phone Screen,2024-02-02
+A2137,LinkedIn,Interview,2024-01-24
+A2137,LinkedIn,Offer,2024-03-01
+A2137,Company Website,Hired,2024-01-28
+A2138,Company Website,Applied,2024-02-12
+A2138,LinkedIn,Phone Screen,2024-02-08
+A2138,Company Website,Interview,2024-02-18
+A2138,LinkedIn,Offer,2024-03-10
+A2138,Company Website,Hired,2024-03-10
+A2139,Company Website,Applied,2024-03-05
+A2139,Company Website,Phone Screen,2024-03-25
+A2139,LinkedIn,Interview,2024-01-02
+A2139,Company Website,Offer,2024-02-26
+A2139,Company Website,Hired,2024-03-14
+A2140,Company Website,Applied,2024-01-16
+A2140,Job Fair,Phone Screen,2024-02-20
+A2140,LinkedIn,Interview,2024-02-08
+A2140,Company Website,Offer,2024-03-16
+A2140,Job Fair,Hired,2024-02-09
+A2141,Company Website,Applied,2024-02-29
+A2141,Referral,Phone Screen,2024-01-10
+A2142,Referral,Applied,2024-03-04
+A2142,Referral,Phone Screen,2024-03-03
+A2142,LinkedIn,Interview,2024-03-04
+A2142,Job Fair,Offer,2024-01-07
+A2143,LinkedIn,Applied,2024-01-20
+A2143,Company Website,Phone Screen,2024-03-08
+A2143,Company Website,Interview,2024-03-26
+A2144,Referral,Applied,2024-03-25
+A2144,Referral,Phone Screen,2024-03-26
+A2144,Job Fair,Interview,2024-01-14
+A2144,Referral,Offer,2024-02-09
+A2145,Company Website,Applied,2024-01-28
+A2146,Company Website,Applied,2024-03-03
+A2146,Company Website,Phone Screen,2024-01-25
+A2146,Job Fair,Interview,2024-01-03
+A2146,Job Fair,Offer,2024-02-13
+A2146,LinkedIn,Hired,2024-02-11
+A2147,Job Fair,Applied,2024-01-06
+A2148,Referral,Applied,2024-02-21
+A2148,Referral,Phone Screen,2024-03-29
+A2148,Referral,Interview,2024-02-19
+A2149,Referral,Applied,2024-01-19
+A2150,LinkedIn,Applied,2024-02-20
+A2151,Referral,Applied,2024-01-12
+A2151,Company Website,Phone Screen,2024-01-08
+A2152,Job Fair,Applied,2024-02-10
+A2152,Job Fair,Phone Screen,2024-03-25
+A2152,Job Fair,Interview,2024-02-24
+A2152,LinkedIn,Offer,2024-02-16
+A2152,Referral,Hired,2024-02-17
+A2153,Company Website,Applied,2024-03-22
+A2153,Company Website,Phone Screen,2024-02-29
+A2153,Job Fair,Interview,2024-03-10
+A2153,Job Fair,Offer,2024-01-02
+A2154,Referral,Applied,2024-03-20
+A2154,Referral,Phone Screen,2024-01-03
+A2155,Referral,Applied,2024-02-09
+A2155,Company Website,Phone Screen,2024-02-02
+A2155,Job Fair,Interview,2024-01-01
+A2155,Referral,Offer,2024-01-08
+A2155,LinkedIn,Hired,2024-02-01
+A2156,Job Fair,Applied,2024-02-17
+A2156,Referral,Phone Screen,2024-01-04
+A2157,Company Website,Applied,2024-03-10
+A2157,Company Website,Phone Screen,2024-01-19
+A2158,Job Fair,Applied,2024-01-09
+A2158,Job Fair,Phone Screen,2024-01-11
+A2158,Company Website,Interview,2024-01-16
+A2159,LinkedIn,Applied,2024-03-03
+A2159,LinkedIn,Phone Screen,2024-01-21
+A2160,Company Website,Applied,2024-01-13
+A2160,Company Website,Phone Screen,2024-01-04
+A2161,Job Fair,Applied,2024-02-28
+A2161,Referral,Phone Screen,2024-01-27
+A2162,LinkedIn,Applied,2024-01-25
+A2162,Referral,Phone Screen,2024-03-08
+A2163,LinkedIn,Applied,2024-01-20
+A2163,Company Website,Phone Screen,2024-01-26
+A2164,Company Website,Applied,2024-01-05
+A2165,Referral,Applied,2024-03-01
+A2166,Job Fair,Applied,2024-01-09
+A2166,Job Fair,Phone Screen,2024-02-19
+A2166,Company Website,Interview,2024-03-23
+A2166,Job Fair,Offer,2024-02-13
+A2166,LinkedIn,Hired,2024-01-11
+A2167,Company Website,Applied,2024-02-16
+A2167,Job Fair,Phone Screen,2024-03-13
+A2167,LinkedIn,Interview,2024-03-28
+A2167,Company Website,Offer,2024-03-26
+A2167,Referral,Hired,2024-03-16
+A2168,Job Fair,Applied,2024-01-30
+A2168,Company Website,Phone Screen,2024-01-21
+A2168,Job Fair,Interview,2024-03-30
+A2168,Company Website,Offer,2024-02-02
+A2169,LinkedIn,Applied,2024-02-04
+A2169,Job Fair,Phone Screen,2024-02-03
+A2169,LinkedIn,Interview,2024-02-20
+A2170,Referral,Applied,2024-03-22
+A2171,Company Website,Applied,2024-03-15
+A2172,LinkedIn,Applied,2024-01-23
+A2172,Job Fair,Phone Screen,2024-01-22
+A2172,LinkedIn,Interview,2024-03-09
+A2173,Job Fair,Applied,2024-01-11
+A2173,Company Website,Phone Screen,2024-01-15
+A2173,Referral,Interview,2024-02-04
+A2173,LinkedIn,Offer,2024-03-24
+A2173,LinkedIn,Hired,2024-01-16
+A2174,Company Website,Applied,2024-03-06
+A2174,Referral,Phone Screen,2024-02-09
+A2174,Job Fair,Interview,2024-01-28
+A2174,Referral,Offer,2024-02-08
+A2175,Company Website,Applied,2024-03-13
+A2176,Job Fair,Applied,2024-01-01
+A2176,Job Fair,Phone Screen,2024-03-27
+A2177,Job Fair,Applied,2024-03-03
+A2177,Referral,Phone Screen,2024-01-04
+A2178,Company Website,Applied,2024-01-25
+A2178,Referral,Phone Screen,2024-02-07
+A2179,Referral,Applied,2024-03-03
+A2180,LinkedIn,Applied,2024-02-26
+A2180,LinkedIn,Phone Screen,2024-02-22
+A2180,Company Website,Interview,2024-01-14
+A2180,Job Fair,Offer,2024-03-16
+A2180,LinkedIn,Hired,2024-02-08
+A2181,LinkedIn,Applied,2024-03-17
+A2181,Referral,Phone Screen,2024-03-22
+A2182,Referral,Applied,2024-01-06
+A2182,Referral,Phone Screen,2024-01-23
+A2182,Referral,Interview,2024-02-15
+A2183,Company Website,Applied,2024-01-14
+A2183,Job Fair,Phone Screen,2024-03-12
+A2183,Company Website,Interview,2024-02-04
+A2183,Referral,Offer,2024-01-30
+A2184,Referral,Applied,2024-03-18
+A2184,Referral,Phone Screen,2024-03-24
+A2184,LinkedIn,Interview,2024-01-25
+A2184,Job Fair,Offer,2024-03-28
+A2184,Company Website,Hired,2024-01-26
+A2185,Company Website,Applied,2024-03-27
+A2185,Company Website,Phone Screen,2024-02-17
+A2185,LinkedIn,Interview,2024-03-23
+A2186,Company Website,Applied,2024-02-20
+A2186,Referral,Phone Screen,2024-02-11
+A2186,Referral,Interview,2024-03-13
+A2186,Job Fair,Offer,2024-03-24
+A2186,LinkedIn,Hired,2024-03-11
+A2187,Company Website,Applied,2024-03-03
+A2187,LinkedIn,Phone Screen,2024-01-19
+A2187,Referral,Interview,2024-01-14
+A2188,Job Fair,Applied,2024-02-07
+A2188,LinkedIn,Phone Screen,2024-03-01
+A2188,Job Fair,Interview,2024-02-09
+A2188,LinkedIn,Offer,2024-01-30
+A2188,LinkedIn,Hired,2024-03-04
+A2189,LinkedIn,Applied,2024-02-21
+A2190,LinkedIn,Applied,2024-01-14
+A2190,Referral,Phone Screen,2024-02-22
+A2190,Referral,Interview,2024-02-28
+A2191,Company Website,Applied,2024-02-10
+A2191,Job Fair,Phone Screen,2024-03-08
+A2191,Job Fair,Interview,2024-01-08
+A2191,Company Website,Offer,2024-03-26
+A2191,LinkedIn,Hired,2024-02-24
+A2192,Job Fair,Applied,2024-03-02
+A2193,LinkedIn,Applied,2024-02-17
+A2193,Company Website,Phone Screen,2024-01-12
+A2193,Referral,Interview,2024-01-11
+A2193,Job Fair,Offer,2024-02-19
+A2194,LinkedIn,Applied,2024-01-21
+A2194,LinkedIn,Phone Screen,2024-02-17
+A2195,Job Fair,Applied,2024-03-07
+A2196,Job Fair,Applied,2024-02-02
+A2197,LinkedIn,Applied,2024-03-13
+A2197,LinkedIn,Phone Screen,2024-01-09
+A2197,Job Fair,Interview,2024-02-04
+A2198,LinkedIn,Applied,2024-03-28
+A2198,Job Fair,Phone Screen,2024-03-05
+A2198,Job Fair,Interview,2024-02-14
+A2198,Referral,Offer,2024-02-16
+A2199,Job Fair,Applied,2024-03-16
+A2199,Company Website,Phone Screen,2024-03-16
+A2199,Company Website,Interview,2024-02-16
+A2199,Referral,Offer,2024-01-19
